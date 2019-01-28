@@ -1,0 +1,24 @@
+﻿
+
+id                 : 1ca0dc87-5557-48e0-b144-01db4b715d3e
+operational        : @{id=108a8233-27ca-4ae9-bbce-0957cddb91a9; lastExecutionResult=; 
+                     nextExecution=2018-12-11T11:05:02.258Z; privileges=}
+name               : Reload Operations Monitor2
+taskType           : 0
+enabled            : True
+taskSessionTimeout : 1440
+maxRetries         : 0
+privileges         : 
+
+id                 : 06038501-c5b8-4da4-8363-dd1af035e65a
+operational        : @{id=7ac7d56d-6fdd-410e-a455-6a2a4651586d; lastExecutionResult=; 
+                     nextExecution=2019-01-11T09:09:32.000Z; privileges=}
+name               : SchoolTrigger
+taskType           : 0
+enabled            : True
+taskSessionTimeout : 1440
+maxRetries         : 0
+privileges         : 
+
+
+
